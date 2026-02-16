@@ -1,6 +1,18 @@
 # Laze
 
+![Version](https://img.shields.io/github/v/release/perkompus/Laze?include_prereleases&style=flat-square)
+![License](https://img.shields.io/github/license/perkompus/Laze?style=flat-square)
+![Size](https://img.shields.io/badge/size-%3C1.5MB-green?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android)
+
 **Laze** is a production-ready, ultra-lightweight Android utility app designed to automate the viewing experience on short-video platforms. By monitoring playback progress, Laze automatically swipes to the next video when the current one ends, allowing for a seamless, hands-free experience.
+
+## 📥 Download
+
+Get the latest Alpha release:
+> **[Download Laze v0.1.0-alpha](https://github.com/perkompus/Laze/releases/tag/alpha)**
+
+---
 
 ## Core Functionality
 
@@ -37,4 +49,17 @@
 3.  **Laze**: Open your favorite short-video app and let Laze handle the scrolling.
 
 ## Disclaimer
-This application is for educational and personal utility purposes only. Use responsibly and in accordance with the terms of service of the target applications.
+> [!WARNING]
+> This application is intended for **educational and personal utility purposes only**.
+> Automating interactions with third-party applications may violate their Terms of Service. Use responsibly. The developers of Laze are not responsible for any account suspensions or bans resulting from the use of this tool.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
