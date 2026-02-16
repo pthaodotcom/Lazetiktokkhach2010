@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laze</string>
+    <string name="accessibility_service_description">Laze automatically swipes to the next video for you.</string>
+    <string name="enable_service">Enable Accessibility Service</string>
+    <string name="enable_overlay">Enable Overlay</string>
+    <string name="service_status_running">Service Running: ON</string>
+    <string name="service_status_stopped">Service Running: OFF</string>
+    <string name="instruction_text">1. Grant Overlay Permission to show the helper bubble.\n2. Enable Accessibility Service to allow auto-swiping.\n3. Open YouTube Shorts/TikTok/Reels and enjoy hands-free viewing.</string>
+</resources>
