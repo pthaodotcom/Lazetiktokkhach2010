@@ -1,7 +1,7 @@
 # Laze
 
-![Version](https://img.shields.io/github/v/release/perkompus/Laze?include_prereleases&style=flat-square)
-![License](https://img.shields.io/github/license/perkompus/Laze?style=flat-square)
+![Version](https://img.shields.io/badge/version-v0.1.0--alpha-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 ![Size](https://img.shields.io/badge/size-%3C1.5MB-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android)
 
