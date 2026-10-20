@@ -1,9 +1,32 @@
 <resources>
     <string name="app_name">Laze</string>
-    <string name="accessibility_service_description">Laze automatically swipes to the next video for you.</string>
-    <string name="enable_service">Enable Accessibility Service</string>
-    <string name="enable_overlay">Enable Overlay</string>
-    <string name="service_status_running">Service Running: ON</string>
-    <string name="service_status_stopped">Service Running: OFF</string>
-    <string name="instruction_text">1. Grant Overlay Permission to show the helper bubble.\n2. Enable Accessibility Service to allow auto-swiping.\n3. Open YouTube Shorts/TikTok/Reels and enjoy hands-free viewing.</string>
+    <string name="test_title">Kiểm thử video TikTok</string>
+    <string name="accessibility_service_description">Đọc trạng thái phát video và kiểm thử điều hướng TikTok khi bạn bấm Bắt đầu. Mỗi phiên có giới hạn và có nút Dừng trên màn hình.</string>
+    <string name="enable_service">Mở cài đặt Trợ năng</string>
+    <string name="service_status_running">Trợ năng đã kết nối · Sẵn sàng kiểm thử</string>
+    <string name="service_status_stopped">Trợ năng chưa kết nối · Bật Laze trong cài đặt</string>
+    <string name="instruction_text">Nhập video A và đoạn mô tả để nhận diện. Mỗi lần bắt đầu sẽ theo dõi một lượt phát, kiểm tra chuyển video, quay lại A rồi dừng. Nếu không xác minh được màn hình, phiên ghi lỗi và dừng.</string>
+    <string name="video_url_label">Link đầy đủ của video A</string>
+    <string name="video_url_hint">https://www.tiktok.com/@tacgia/video/123456789</string>
+    <string name="video_marker_label">Đoạn mô tả riêng để nhận diện A</string>
+    <string name="video_marker_hint">Sao chép 8–200 ký tự nhìn thấy trong mô tả</string>
+    <string name="navigation_count_label">Số video khác để kiểm tra (2 hoặc 3)</string>
+    <string name="away_seconds_label">Tổng thời gian chờ ở video khác (30–40 giây)</string>
+    <string name="playback_timeout_label">Giới hạn chờ phát xong A (30–900 giây)</string>
+    <string name="start_test">Bắt đầu một phiên kiểm thử</string>
+    <string name="stop_test">Dừng kiểm thử</string>
+    <string name="stop_test_state">Dừng kiểm thử\n%1$s</string>
+    <string name="default_navigation_count" translatable="false">2</string>
+    <string name="default_away_seconds" translatable="false">35</string>
+    <string name="default_playback_timeout" translatable="false">180</string>
+    <string name="result_title">Kết quả phiên gần nhất</string>
+    <string name="no_session">Chưa có phiên kiểm thử.</string>
+    <string name="session_result">Trạng thái: %1$s\nKết quả: %2$s\nLượt phát đã xác nhận: %3$d\nLượt phát hoàn thành: %4$d\nLần chuyển video đã xác minh: %5$d\nMã kết thúc: %6$s</string>
+    <string name="measurement_note">Số liệu này là kết quả quan sát trong APK. Đối chiếu lượt xem riêng trong TikTok Analytics; thời gian chờ không phải ngưỡng bảo đảm được tính view.</string>
+    <string name="export_logs">Xuất log JSON</string>
+    <string name="enable_service_first">Bật Trợ năng Laze và quay lại để bắt đầu.</string>
+    <string name="invalid_config">Kiểm tra lại cấu hình.</string>
+    <string name="log_write_failed">Không lưu được đầy đủ log phiên. Phiên đã dừng.</string>
+    <string name="export_saved">Đã lưu log JSON.</string>
+    <string name="export_failed">Không xuất được log. Vui lòng thử lại.</string>
 </resources>
